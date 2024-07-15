@@ -51,3 +51,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 
 If you have any questions or would like to get in touch, feel free to contact me via the contact form on the portfolio or by email at aditinegi9703@gmail.com
+
+
+---
+permalink: /index.html
+---
